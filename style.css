@@ -161,6 +161,9 @@ body {
         height: fit-content;
         padding: 0 14px;
     }
+    .categoryContainer {
+        margin: 15px 0 20px 0;
+    }
     .categoryCards {
         width: 90%;
         height: fit-content;
